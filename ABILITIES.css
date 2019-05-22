@@ -1,0 +1,18 @@
+body {
+	background-image: url(https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/Ant-Man_and_the_Wasp_60.jpg/revision/latest?cb=20180501145338);
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+#b {
+	background-image: url(http://smallbiztwit.info/wp-content/uploads/2019/04/light-yellow-light-yellow-color-pale-yellow-color-of-walls-above-breadboard-bathroom-remodel-light-yellow-background-with-quote.jpg);
+	width:50%;
+	height:50%;
+	color: black;
+	margin-top: 20px;
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 20px;
+	
+}

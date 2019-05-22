@@ -1,0 +1,23 @@
+body { 
+  background: url(antmanwall2.jpg) no-repeat center center fixed; 
+  
+  background-size: cover;
+
+}
+#main { 
+  background-image: url(quantumrealm.jpg);
+  height: 50%;
+  width: 50%;
+  color: white;
+  text-align: center;
+   font-family: 'Chewy', cursive;
+  
+  
+}
+
+
+#logo {
+  align-self: center;
+  margin-left: 50px;
+  margin-top: 40px;
+}
